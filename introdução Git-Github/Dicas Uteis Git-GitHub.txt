@@ -10,6 +10,15 @@ remote -v
 git checkout -b main
 
 
+**Adicionar versões / Anotações / modificações do repositorio etc
+git status (vai aparecer as especificações e em vermelho as alterações que foi feita na pasta/arquivo)
+git add . (ou git -a) ( vai reconhecer a alteração feita porem nao retona nada) 
+git status (vai aparecer a modificação em verde, mas ainda nao upou pro github)
+git commit -m "  " (adicione entre as aspas o comentario desejado - retorna especificação com comentario)
+git status ( vai informar que precisar fazer push)
+git push origin main (realiza o push para o github - retorna mensagem positivo + especificações)
+
+
 **Atalhos Uteis
 Ctrl + L => Limpar tela
 cd .. => voltar 1 pasta
