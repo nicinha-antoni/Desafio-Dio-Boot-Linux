@@ -1,0 +1,17 @@
+
+**Upar no Git
+git init
+git remote rm origin
+remote -v
+(add as 3 linhas individualmente do Push)
+
+
+**Transformar Master em Main
+git checkout -b main
+
+
+**Atalhos Uteis
+Ctrl + L => Limpar tela
+cd .. => voltar 1 pasta
+git status => status da pasta
+mkdir => criar pastas e arquivos
