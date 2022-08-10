@@ -24,3 +24,8 @@ Ctrl + L => Limpar tela
 cd .. => voltar 1 pasta
 git status => status da pasta
 mkdir => criar pastas e arquivos
+
+
+>Linkar uma titulo
+[]() 
+Adicionar entre os colchetes o titulo desejado e entre as chaves colocar o link
